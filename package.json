@@ -109,7 +109,7 @@
     "element-resize-event": "^3.0.1",
     "isomorphic-fetch": "^2.2.1",
     "lodash.debounce": "^4.0.8",
-    "lodash.defaultsdeep": "^4.6.0",
+    "lodash.defaultsdeep": "^4.6.1",
     "lodash.get": "^4.4.2",
     "lodash.isequal": "^4.5.0",
     "lodash.kebabcase": "^4.1.1",
