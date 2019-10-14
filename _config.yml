@@ -3,7 +3,7 @@ exclude:
   - assets/scripts
   - assets/styles
   - assets/icons
-baseurl: //global-climatescope.org
+baseurl: //2018.global-climatescope.org
 
 appTitle: 'Climatescope'
 appEdition: 2018
